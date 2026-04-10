@@ -1,0 +1,71 @@
+{
+  "american": {
+    "n_speakers": 373,
+    "mean_phoneme_acc": 90.68,
+    "th_rate": 16.177,
+    "voiced_th_rate": 32.836,
+    "r_rate": 51.952,
+    "w_rate": 35.907,
+    "v_rate": 11.118,
+    "d_rate": 30.053,
+    "js_div_from_american": 0.0932,
+    "key_substitutions": []
+  },
+  "british": {
+    "n_speakers": 65,
+    "mean_phoneme_acc": 88.73,
+    "th_rate": 15.433,
+    "voiced_th_rate": 30.796,
+    "r_rate": 48.789,
+    "w_rate": 32.941,
+    "v_rate": 12.111,
+    "d_rate": 27.405,
+    "js_div_from_american": 0.1127,
+    "key_substitutions": [
+      "R-dropping",
+      "W\u2192V"
+    ]
+  },
+  "indian": {
+    "n_speakers": 107,
+    "mean_phoneme_acc": 85.76,
+    "th_rate": 10.304,
+    "voiced_th_rate": 31.882,
+    "r_rate": 49.66,
+    "w_rate": 26.392,
+    "v_rate": 13.217,
+    "d_rate": 35.725,
+    "js_div_from_american": 0.1424,
+    "key_substitutions": [
+      "TH\u2192D/T",
+      "R-dropping",
+      "W\u2192V"
+    ]
+  },
+  "australian": {
+    "n_speakers": 32,
+    "mean_phoneme_acc": 89.35,
+    "th_rate": 14.061,
+    "voiced_th_rate": 31.844,
+    "r_rate": 51.144,
+    "w_rate": 36.256,
+    "v_rate": 12.545,
+    "d_rate": 32.12,
+    "js_div_from_american": 0.1065,
+    "key_substitutions": [
+      "TH\u2192D/T"
+    ]
+  },
+  "canadian": {
+    "n_speakers": 44,
+    "mean_phoneme_acc": 90.8,
+    "th_rate": 16.295,
+    "voiced_th_rate": 32.488,
+    "r_rate": 51.635,
+    "w_rate": 35.238,
+    "v_rate": 12.425,
+    "d_rate": 28.516,
+    "js_div_from_american": 0.092,
+    "key_substitutions": []
+  }
+}
